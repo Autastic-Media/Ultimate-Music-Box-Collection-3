@@ -1,0 +1,17 @@
+Created by The Autastic Media Dev Team © 2020.
+
+This software is provided as source-available for educational, recreational, and accessibility-focused use.
+
+Permission is granted to:
+- Use, modify, and redistribute the source code
+- Share derivative works
+- Include this software in personal or educational projects
+
+Under the following conditions:
+- Non-commercial use only
+- Attribution to "The Autastic Media Dev Team" must be preserved in all copies and derivatives
+- No warranty is provided; use at your own risk
+- Do not sell, license, or monetize this software or its derivatives
+
+This project is intended to support autistic users through emotionally resonant, accessible software.  
+For questions, contributions, or ceremonial alignment, visit: https://github.com/Autastic-Meida
