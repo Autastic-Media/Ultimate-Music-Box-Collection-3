@@ -4,7 +4,7 @@
 ' - Non-commercial use only
 ' - Attribution to The Autastic Media Dev Team must be preserved
 ' - No warranty is provided; use at your own risk
-' For full details, visit: https://github.com/Autastic-Meida
+' For full details, visit: https://github.com/Autastic-Media
 
 Imports System.IO
 Imports NAudio.Wave
@@ -185,7 +185,7 @@ Public Class Form1
     End Sub
 
     Private Sub PictureBox3_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles PictureBox3.Click
-        System.Diagnostics.Process.Start("https://github.com/Autastic-Meida")
+        System.Diagnostics.Process.Start("https://github.com/Autastic-Media")
     End Sub
 
     Private Sub CheckBox2_CheckedChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles CheckBox2.CheckedChanged

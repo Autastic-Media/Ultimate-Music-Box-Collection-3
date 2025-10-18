@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Autastic-Meida/home/main/assets/am_logo_banner_large.png" alt="Autastic Media Dev Team Logo" width="600"/>
+  <img src="https://raw.githubusercontent.com/Autastic-Media/home/main/assets/am_logo_banner_large.png" alt="Autastic Media Dev Team Logo" width="600"/>
 </p>
 
 <p align="center"><em>Empowering autistic users through emotionally resonant, predictable, and accessible software.</em></p>
@@ -7,7 +7,7 @@
 <h1 align="center">Ultimate Music Box – Collection 3</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Autastic-Meida/home/main/assets/LogImage3.png" alt="Ultimate Music Box - Collection 3 Logo" width="500"/>
+  <img src="https://raw.githubusercontent.com/Autastic-Media/home/main/assets/LogImage3.png" alt="Ultimate Music Box - Collection 3 Logo" width="500"/>
 </p>
 
 ---
@@ -31,7 +31,7 @@ However:
 This archive is part of a legacy effort to empower autistic users through emotionally resonant, accessible software.  
 To honor the spirit of this work, please respect its ceremonial boundaries.
 
-For more information, visit [Autastic Media Dev Team](https://github.com/Autastic-Meida).
+For more information, visit [Autastic Media Dev Team](https://github.com/Autastic-Media).
 
 ---
 
